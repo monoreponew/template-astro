@@ -1,1 +1,1 @@
-# Simple Next.js Static Template
+# Simple Astro Template
